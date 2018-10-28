@@ -9,6 +9,40 @@ var college_ranks = [
       "name" : "IIT Bombay",
       "closing_rank_CSE" : 60
   },
+  {
+      "preference" : 3,
+      "name" : "IIT Madras",
+      "closing_rank_CSE" : 200
+  },
+    {
+      "preference" : 4,
+      "name" : "IIT Kanpur",
+      "closing_rank_CSE" : 500
+  },
+  {
+      "preference" : 5,
+      "name" : "IIT Guwahati",
+      "closing_rank_CSE" : 850
+  },
+  {
+      "preference" : 6,
+      "name" : "IIT Roorkee",
+      "closing_rank_CSE" : 400
+  },
+  {
+      "preference" : 7,
+      "name" : "IIT Kharagpur",
+      "closing_rank_CSE" : 300
+  },
+  {
+      "preference" : 9,
+      "name" : "IIT Hyderabad",
+      "closing_rank_CSE" : 800
+  },{
+      "preference" : 10,
+      "name" : "IIT Patna",
+      "closing_rank_CSE" : 1200
+  },
 ]
 
 
